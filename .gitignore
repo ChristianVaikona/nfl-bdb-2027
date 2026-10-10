@@ -1,0 +1,10 @@
+# Local data directory
+/data/
+
+# Python caching
+__pycache__/
+*.pyc
+
+# IDE settings
+.vscode/
+.DS_Store
